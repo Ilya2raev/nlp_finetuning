@@ -7,3 +7,5 @@
 2. Базовый bert без приведения токенов к нижнему регистру в NER_FT.ipynb для задач распознавания именованных сущностей;
 
 3. OPUS-MT для задачи машинного перевода с английского на французский.
+
+<image src="https://github.com/Ilya2raev/nlp_finetuning/blob/master/bert.png">
